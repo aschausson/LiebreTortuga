@@ -1,3 +1,3 @@
 # LiebreTortuga
 
-https://aschausson.github.io/liebretortuga
+https://aschausson.github.io/LiebreTortuga
